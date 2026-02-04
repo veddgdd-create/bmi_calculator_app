@@ -1,3 +1,4 @@
+// ignore: file_names
 import 'package:bmi_calculator_app/BMI_calc.dart';
 import 'package:flutter/material.dart';
 

@@ -128,7 +128,7 @@ class _BmiCalcState extends State<BmiCalc> {
                   children: [
                     Expanded(
                       child: Container(
-                        height: 180,
+                        height: 220,
                         decoration: BoxDecoration(
                           color: const Color(0xff333244),
                           borderRadius: BorderRadius.circular(12),
@@ -175,7 +175,7 @@ class _BmiCalcState extends State<BmiCalc> {
                     const SizedBox(width: 10),
                     Expanded(
                       child: Container(
-                        height: 180,
+                        height: 220,
                         decoration: BoxDecoration(
                           color: const Color(0xff333244),
                           borderRadius: BorderRadius.circular(12),
